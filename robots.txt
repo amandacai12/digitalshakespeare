@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amandacai12.github.io/digitalshakespeare/sitemap.xml
